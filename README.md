@@ -11,7 +11,7 @@
   
 </div>
 
-## You can generate PULL REQUESTS on this repository for HACKTOBERFEST 2022
+## You can generate `PULL REQUESTS` on this repository for `HACKTOBERFEST 2022`
 
 🗣 **Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the Hacktoberfest-2022 challenge and earn a limited edition T-shirt.**
 
