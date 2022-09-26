@@ -44,6 +44,7 @@
 NOTE : Contributions done to the `content` folder only will be counted towards the Hacktoberfest 2022
 
 # How to make your first Pull Request
+### Please note - `Pull Requests` of only those `contributors` will be `Merged` who will follow all the below mentioned steps
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
