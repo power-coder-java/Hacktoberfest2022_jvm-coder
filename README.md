@@ -6,5 +6,5 @@
 <div align="center">
 
 <a href="https://github.com/jvm-coder/Hacktoberfest2022_jvm-coder/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2022" />
+  <img src="https://contrib.rocks/image?repo=jvm-coder/Hacktoberfest2022_jvm-coder" />
 </a>
