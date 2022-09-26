@@ -28,3 +28,47 @@
 <a href="https://github.com/jvm-coder/Hacktoberfest2022_jvm-coder/blob/master/LICENSE"></a>
 
 </div>
+
+## Instructions-
+
+- Fork this Repository to your GITHUB using the button at the top
+- Clone your forked repository to your pc ( git clone "url from clone option.)
+- Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
+- Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
+- Add your profile data in `content/participant/`
+- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
+- Create a pull request
+- Star this repository
+
+# How to make your first Pull Request
+
+Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+
+## STEP-1. Add your profile picture to the folder
+
+Add a picture picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
+
+```
+static/images/<YOUR-USERNAME>.png
+```
+
+
+## STEP-2. Add your profile information
+
+Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. Ex.
+
+```
+content/participant/<YOUR-USERNAME>.md/
+```
+
+## STEP-3. Copy the next template into your file, delete the boilerplate data and fill the information with yours.
+
+```
+---
+name: YOURNAME
+institution/company: INSTITUTION_NAME
+github:USERNAME
+---
+```
+
+## STEP-4. Wait for Pull Request to merge
