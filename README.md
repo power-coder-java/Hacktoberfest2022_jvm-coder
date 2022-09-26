@@ -59,7 +59,8 @@ static/images/<YOUR-USERNAME>.png
 
 ## STEP-2. Add your profile information
 
-Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. Ex.
+Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. 
+Ex.
 
 ```
 content/participant/<YOUR-USERNAME>.md/
