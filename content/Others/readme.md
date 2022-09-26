@@ -2,4 +2,4 @@
 ## then create a folder with the project name and add the project into that `folder`
 
 ### For ex. - 
-`Hacktoberfest2022_jvm-coder/content/<YOUR PROJECT DOMAIN>/[index.php]`
+`Hacktoberfest2022_jvm-coder/content/<YOUR-PROJECT-DOMAIN>/[index.php]`
