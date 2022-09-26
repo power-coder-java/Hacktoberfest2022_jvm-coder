@@ -72,3 +72,15 @@ github:USERNAME
 ```
 
 ## STEP-4. Wait for Pull Request to merge
+
+## STEP-5. Celebrate - you've done your first pull request!!
+
+```
+'''
+You are always advised to make more then 4 pull request
+Suppose, you have made only 4 pull request to different projects
+but due to some problem one project gets excluded from hackoctoberfest event then your pull request will not be counted towards HACKTOBERFEST contributions and 
+then you will be remained with only 3 valid pull requests.
+If you fail to make 4 valid pull requests then you can't get schwags or t-shirts.
+'''
+```
