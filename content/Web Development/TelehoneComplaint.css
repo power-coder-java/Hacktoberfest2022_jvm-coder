@@ -1,0 +1,15 @@
+* {
+background-color: #5f5e5e;
+} h
+1 {
+text-align: center;
+background-color:#C0C0C0 ;
+}
+.center { margin-left: auto;
+margin-right: auto;
+}
+table, th, td {
+border: 2px solid black;
+border-collapse: collapse;
+background-color:#C0C0C0;
+}
